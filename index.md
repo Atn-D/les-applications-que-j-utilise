@@ -1,6 +1,6 @@
 ---
 title: "Mon mini-site Framalibre"
-order: 0
+order: 1
 in_menu: true
 ---
 J'écris ici un texte de présentation de mon mini-site Framalibre et je peux
