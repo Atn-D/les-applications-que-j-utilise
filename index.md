@@ -19,3 +19,45 @@ lister les logiciels libres que je recommande.
     </div>
   </div>
 </article> 
+
+---
+
+# Messagerie
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://beta.framalibre.org/images/logo/Element.io%20(ex%20Riot.im).png">
+    </div>
+    <div>
+      <h2>Element.io (ex Riot.im)</h2>
+      <p>Element rassemble toutes vos conversations et intégrations applicatives en une seule application.</p>
+      <div>
+        <a href="https://beta.framalibre.org/notices/element-io-ex-riot-im.html">Vers la notice Framalibre</a>
+        <a href="https://element.io">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://beta.framalibre.org/images/logo/Thunderbird.png">
+    </div>
+    <div>
+      <h2>Thunderbird</h2>
+      <p>Célèbre client de courriel issu du projet Mozilla, distribué par la Fondation Mozilla.</p>
+      <div>
+        <a href="https://beta.framalibre.org/notices/thunderbird.html">Vers la notice Framalibre</a>
+        <a href="https://www.thunderbird.net/fr/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+# test markdown
+
+> j’aime bien cet outil
+
+- un
+- deux
+- trois 
