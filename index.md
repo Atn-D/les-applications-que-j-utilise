@@ -16,6 +16,7 @@ lister les logiciels libres que je recommande.
     <div>
       <a href="https://beta.framalibre.org/notices/peertube.html">Vers la notice Framalibre</a>
       <a href="https://joinpeertube.org/fr/">Vers le site</a>
+      <a href="https://tube.kher.nl">Le Peertube que je propose</a>
     </div>
   </div>
 </article> 
